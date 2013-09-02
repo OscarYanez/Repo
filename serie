@@ -2,5 +2,13 @@
 
 int main()
 {
+int contador;
+	contador=5;
+	while (contador<=300)
+		
+	{
+		}
+
+
 
 }
