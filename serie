@@ -7,6 +7,9 @@ int contador;
 	while (contador<=300)
 		
 	{
+		printf ("\nEsta serie es: %d",contador);
+		contador=contador+5;
+	
 		}
 
 
